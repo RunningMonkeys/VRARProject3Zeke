@@ -15,3 +15,6 @@ Juke box - https://assetstore.unity.com/packages/3d/props/electronics/jukebox-mu
 Rouge ump(song) - https://thegarages.bandcamp.com/album/live-desert-bus-for-hope by The garages at desertbus for hope performed by: MQ / mother love blone / yana / rain / teake / bird / em grace / jennifer cat / slothfella / autumn / seb / INOM / riley / VigilantBaker / tegan / june / nerdy / (im)perfect pitch / AMFSH
 
 Cartoon phone ring - http://soundbible.com/2189-Cartoon-Phone-Ring.html by Daniel Simion
+
+TV - https://assetstore.unity.com/packages/3d/props/electronics/wall-tvset-8468 by 3d.rina
+
