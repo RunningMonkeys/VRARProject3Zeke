@@ -18,3 +18,4 @@ Cartoon phone ring - http://soundbible.com/2189-Cartoon-Phone-Ring.html by Danie
 
 TV - https://assetstore.unity.com/packages/3d/props/electronics/wall-tvset-8468 by 3d.rina
 
+Couch - https://assetstore.unity.com/packages/3d/props/furniture/modern-minimalist-sofa-136398 by Joe Louis Robinson
